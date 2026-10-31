@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96,
+          40.77
+        ]
+      },
+      "properties": {
+        "name": "Former Manhattan residence — Upper East Side",
+        "note": "Neighborhood locator only. The 2019 indictment announcement describes alleged conduct at a Manhattan residence. No street address or current ownership is provided.",
+        "sources": [
+          {
+            "title": "SDNY, indictment announcement (July 8, 2019)",
+            "url": "https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors"
+          }
+        ],
+        "coordinate_precision": "area-level editorial locator; not a surveyed property boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04,
+          26.7
+        ]
+      },
+      "properties": {
+        "name": "Former Palm Beach residence — Palm Beach area",
+        "note": "Town-level locator only. The 2019 indictment announcement describes alleged conduct at a Palm Beach residence. No street address or current ownership is provided.",
+        "sources": [
+          {
+            "title": "SDNY, indictment announcement (July 8, 2019)",
+            "url": "https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors"
+          }
+        ],
+        "coordinate_precision": "area-level editorial locator; not a surveyed property boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06,
+          40.85
+        ]
+      },
+      "properties": {
+        "name": "Teterboro Airport",
+        "note": "Airport-area locator. Epstein was arrested here on July 6, 2019, according to the OIG report.",
+        "sources": [
+          {
+            "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+            "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+          }
+        ],
+        "coordinate_precision": "area-level editorial locator; not a surveyed property boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          40.71
+        ]
+      },
+      "properties": {
+        "name": "Metropolitan Correctional Center — Lower Manhattan",
+        "note": "Area locator. Epstein was held at MCC New York and found unresponsive there on August 10, 2019; he was pronounced dead at a hospital.",
+        "sources": [
+          {
+            "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+            "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+          }
+        ],
+        "coordinate_precision": "area-level editorial locator; not a surveyed property boundary"
+      }
+    }
+  ]
+}

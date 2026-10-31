@@ -1,0 +1,240 @@
+[
+  {
+    "date": "1953-01-01",
+    "label": "Jeffrey Epstein born",
+    "note": "The OIG report gives his birth year as 1953. Only the year is established by this source; January 1 is a sorting placeholder.",
+    "sources": [
+      {
+        "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+        "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+      }
+    ],
+    "key": false,
+    "precision": "year"
+  },
+  {
+    "date": "2005-01-01",
+    "label": "Palm Beach police investigation begins",
+    "note": "Palm Beach police began investigating after a complaint involving a minor. Only the year is specified here.",
+    "sources": [
+      {
+        "title": "DOJ OPR, executive summary (November 2020), pp. 1–2",
+        "url": "https://www.justice.gov/opr/page/file/1336471/dl"
+      }
+    ],
+    "key": true,
+    "precision": "year"
+  },
+  {
+    "date": "2007-09-24",
+    "label": "Federal non-prosecution agreement signed",
+    "note": "The Southern District of Florida agreed to forgo federal prosecution under an agreement requiring a state plea and other conditions.",
+    "sources": [
+      {
+        "title": "DOJ OPR, executive summary (November 2020), pp. 1–2",
+        "url": "https://www.justice.gov/opr/page/file/1336471/dl"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2008-06-30",
+    "label": "Florida guilty plea and sentence",
+    "note": "Epstein pleaded guilty to felony solicitation of prostitution and procurement of minors to engage in prostitution. He received 18 months in county jail, followed by community control.",
+    "sources": [
+      {
+        "title": "DOJ OPR, executive summary (November 2020), pp. 1–2",
+        "url": "https://www.justice.gov/opr/page/file/1336471/dl"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2019-07-06",
+    "label": "Arrest at Teterboro Airport",
+    "note": "Federal authorities arrested Epstein upon his return to the United States.",
+    "sources": [
+      {
+        "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+        "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2019-07-08",
+    "label": "SDNY indictment unsealed",
+    "note": "Epstein was charged with sex trafficking of minors and conspiracy. The indictment was an accusation, not a conviction.",
+    "sources": [
+      {
+        "title": "SDNY, indictment announcement (July 8, 2019)",
+        "url": "https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2019-08-10",
+    "label": "Death in federal custody",
+    "note": "Epstein was found unresponsive at MCC New York and pronounced dead at a hospital. The medical examiner determined the death was suicide.",
+    "sources": [
+      {
+        "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+        "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2020-07-02",
+    "label": "Maxwell arrested",
+    "note": "Ghislaine Maxwell was arrested and charged in a federal case concerning alleged abuse of minors and alleged perjury.",
+    "sources": [
+      {
+        "title": "SDNY, Maxwell arrest and charges (July 2, 2020)",
+        "url": "https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-charged-manhattan-federal-court-conspiring-jeffrey-epstein-sexually"
+      }
+    ],
+    "key": false,
+    "precision": "day"
+  },
+  {
+    "date": "2020-11-01",
+    "label": "DOJ reviews Florida resolution",
+    "note": "OPR published its executive summary examining the federal investigation, non-prosecution agreement and treatment of victims. Source specifies November 2020.",
+    "sources": [
+      {
+        "title": "DOJ OPR, executive summary (November 2020), pp. 1–2",
+        "url": "https://www.justice.gov/opr/page/file/1336471/dl"
+      }
+    ],
+    "key": false,
+    "precision": "month"
+  },
+  {
+    "date": "2021-12-29",
+    "label": "Maxwell convicted",
+    "note": "A federal jury found Maxwell guilty of five offenses, including sex trafficking of a minor.",
+    "sources": [
+      {
+        "title": "SDNY, Maxwell sentence (June 28, 2022)",
+        "url": "https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-sentenced-20-years-prison-conspiring-jeffrey-epstein-sexually-abuse"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2022-06-28",
+    "label": "Maxwell sentenced",
+    "note": "Maxwell was sentenced to 20 years in federal prison.",
+    "sources": [
+      {
+        "title": "SDNY, Maxwell sentence (June 28, 2022)",
+        "url": "https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-sentenced-20-years-prison-conspiring-jeffrey-epstein-sexually-abuse"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2023-06-01",
+    "label": "Inspector General report",
+    "note": "OIG documented serious failures in custody and supervision. It found no evidence contradicting the FBI’s determination that there was no criminality associated with the death. Source specifies June 2023.",
+    "sources": [
+      {
+        "title": "DOJ OIG, report 23-085 (June 2023), executive summary and p. 5",
+        "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf"
+      }
+    ],
+    "key": true,
+    "precision": "month"
+  },
+  {
+    "date": "2023-12-18",
+    "label": "Civil-record unsealing order",
+    "note": "The court issued findings following a particularized review and allowed time for affected people to appeal.",
+    "sources": [
+      {
+        "title": "S.D.N.Y., 15-cv-07433, ECF 1315 (CourtListener / RECAP PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/gov.uscourts.nysd.447706.1315.0.pdf"
+      }
+    ],
+    "key": false,
+    "precision": "day"
+  },
+  {
+    "date": "2024-01-03",
+    "label": "January unsealing begins",
+    "note": "The court said filing would begin that day, with exceptions under review. The accompanying notice described rolling releases.",
+    "sources": [
+      {
+        "title": "S.D.N.Y., 15-cv-07433, ECF 1319 (CourtListener / RECAP PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/gov.uscourts.nysd.447706.1319.0.pdf"
+      },
+      {
+        "title": "S.D.N.Y., 15-cv-07433, ECF 1320 (CourtListener / RECAP PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/gov.uscourts.nysd.447706.1320.0.pdf"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2024-01-04",
+    "label": "Privacy correction ordered",
+    "note": "The court directed that five attachments be stricken and refiled with personal identifying information redacted.",
+    "sources": [
+      {
+        "title": "S.D.N.Y., 15-cv-07433, ECF 1324 (CourtListener / RECAP PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/gov.uscourts.nysd.447706.1324.0.pdf"
+      }
+    ],
+    "key": false,
+    "precision": "day"
+  },
+  {
+    "date": "2024-01-09",
+    "label": "Final set under December order filed",
+    "note": "The filing notice described this as the last set pursuant to the December 18 order, with specified exceptions still under review.",
+    "sources": [
+      {
+        "title": "S.D.N.Y., 15-cv-07433, ECF 1335 (CourtListener / RECAP PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/gov.uscourts.nysd.447706.1335.0.pdf"
+      }
+    ],
+    "key": false,
+    "precision": "day"
+  },
+  {
+    "date": "2026-01-30",
+    "label": "DOJ announces major records release",
+    "note": "DOJ announced over three million additional pages under the Epstein Files Transparency Act. Publication of a record does not establish the truth of its contents.",
+    "sources": [
+      {
+        "title": "DOJ, records release announcement (January 30, 2026)",
+        "url": "https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files"
+      }
+    ],
+    "key": true,
+    "precision": "day"
+  },
+  {
+    "date": "2026-09-11",
+    "label": "DOJ library update",
+    "note": "The library displayed this as its last-updated date when checked on October 30, 2026. This is a website update, not a court finding.",
+    "sources": [
+      {
+        "title": "DOJ Epstein Library, updated September 11, 2026",
+        "url": "https://www.justice.gov/epstein"
+      }
+    ],
+    "key": false,
+    "precision": "day"
+  }
+]
