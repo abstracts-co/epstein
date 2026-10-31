@@ -1,0 +1,88 @@
+{
+  "id": "opr-2020-summary",
+  "title": "Executive Summary of Report: Investigation into the U.S. Attorney’s Office for the Southern District of Florida’s Resolution of Its 2006–2008 Federal Criminal Investigation of Jeffrey Epstein and Its Interactions with Victims during the Investigation",
+  "source": {
+    "url": "https://www.justice.gov/opr/page/file/1336471/dl",
+    "publisher": "U.S. Department of Justice, Office of Professional Responsibility",
+    "date": "2020-11",
+    "pages": 13,
+    "sha256": "5e5b05fe66213d4b8cd5fac23ffe8ccccd9b7804d4037c221ad533329c54777a",
+    "license": "Public domain — U.S. government work"
+  },
+  "tool": {
+    "name": "PageIndex",
+    "version": "0.5.0",
+    "method": "Local Flash layout extraction with deterministic merge and Claude Code refinement/summaries; editorial heading corrections, summary shortening, and Poppler leaf-page text extraction.",
+    "models": [
+      "claude-code/haiku"
+    ]
+  },
+  "built": "2026-10-30",
+  "tree": [
+    {
+      "node_id": "0000",
+      "title": "EXECUTIVE SUMMARY OF REPORT",
+      "start_page": 1,
+      "end_page": 1,
+      "summary": "Cover identifying the Office of Professional Responsibility investigation and its November 2020 executive summary.",
+      "nodes": []
+    },
+    {
+      "node_id": "0001",
+      "title": "EXECUTIVE SUMMARY",
+      "start_page": 2,
+      "end_page": 13,
+      "summary": "Covers an OPR executive summary of the DOJ's handling of Epstein's 2007-2008 federal case: the Florida USAO non-prosecution agreement without victim consultation, the state plea, CVRA litigation, the 2018 Miami Herald report, Acosta's resignation, the 2019 indictment, Epstein's death, and the pending en banc appeal. It explains OPR's investigation origin, scope, five subjects, and records-based method, plus its misconduct framework.",
+      "nodes": [
+        {
+          "node_id": "0002",
+          "title": "I. OVERVIEW OF FACTUAL BACKGROUND",
+          "start_page": 2,
+          "end_page": 6,
+          "summary": "The text is an OPR executive summary and factual background on the DOJ's handling of Jeffrey Epstein's 2007-2008 federal case. It covers the Florida USAO's non-prosecution agreement (NPA) without victim consultation, Epstein's state plea and light sentence, the CVRA litigation by victims, the 2018 Miami Herald report, Acosta's resignation as Labor Secretary, the 2019 New York sex trafficking indictment, Epstein's death, and the pending en banc Eleventh Circuit appeal.",
+          "nodes": []
+        },
+        {
+          "node_id": "0003",
+          "title": "II. THE INITIATION AND SCOPE OF OPR’S INVESTIGATION",
+          "start_page": 6,
+          "end_page": 8,
+          "summary": "Describes the Office of Professional Responsibility (OPR) investigation into the DOJ's handling of the Epstein non-prosecution agreement. It covers the origin in Sen.",
+          "nodes": []
+        },
+        {
+          "node_id": "0004",
+          "title": "III. OVERVIEW OF OPR’S ANALYTICAL FRAMEWORK",
+          "start_page": 8,
+          "end_page": 9,
+          "summary": "Describes OPR's analytical framework: OPR investigates professional misconduct by Department attorneys (and related law enforcement agent misconduct) tied to their authority to investigate, litigate, or advise. Misconduct requires a clear, unambiguous governing standard (Constitution, statutes, licensing rules, Department regulations/policies) violated intentionally or recklessly, proven by preponderance of evidence.",
+          "nodes": []
+        },
+        {
+          "node_id": "0005",
+          "title": "IV. ISSUES CONSIDERED",
+          "start_page": 9,
+          "end_page": 10,
+          "summary": "Describes OPR's investigation into two issue sets: (A) the negotiation, execution, and implementation of the Epstein NPA, assessed against standards on charging, declinations, deferred/non-prosecution and plea agreements, grants of immunity, and deportation of criminal aliens, including whether improper motives influenced terms; and (B) the district court's finding that the USAO violated the CVRA through victim consultation and notification before and after the NPA. Notes OPR's authority over former attorneys and its earlier declination in 2010.",
+          "nodes": []
+        },
+        {
+          "node_id": "0006",
+          "title": "V. OPR’S FINDINGS AND CONCLUSIONS",
+          "start_page": 10,
+          "end_page": 13,
+          "summary": "The OPR report concludes that Acosta, as U.S. Attorney, made the pivotal decision to resolve the federal Epstein investigation via a state plea and is responsible for the NPA, though none of the subjects committed professional misconduct in developing it; his decision was within his authority and not based on improper factors, but reflected poor judgment in its flawed federalism reasoning, reliance on state officials, premature resolution, problematic terms, and inadequate supervision.",
+          "nodes": []
+        },
+        {
+          "node_id": "0007",
+          "title": "VI. ORGANIZATION OF THE REPORT",
+          "start_page": 13,
+          "end_page": 13,
+          "summary": "Organization overview of an OPR report on Jeffrey Epstein's case in three chapters. Chapter One covers relevant federal, state, and local law enforcement, the five subjects' backgrounds and roles, an Epstein profile, and defense attorneys.",
+          "nodes": []
+        }
+      ]
+    }
+  ]
+}

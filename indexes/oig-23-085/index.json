@@ -1,0 +1,705 @@
+{
+  "id": "oig-23-085",
+  "title": "Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York",
+  "source": {
+    "url": "https://oig.justice.gov/sites/default/files/reports/23-085.pdf",
+    "publisher": "U.S. Department of Justice, Office of the Inspector General",
+    "date": "2023-06",
+    "pages": 128,
+    "sha256": "761f57f598dd9b555088040b2bfc55c622d2a2b7681f19220aac71131e373c1e",
+    "license": "Public domain — U.S. government work"
+  },
+  "tool": {
+    "name": "PageIndex",
+    "version": "0.5.0",
+    "method": "Local Flash layout extraction with deterministic merge and Claude Code refinement/summaries; editorial heading corrections, summary shortening, and Poppler leaf-page text extraction.",
+    "models": [
+      "claude-code/haiku"
+    ]
+  },
+  "built": "2026-10-30",
+  "tree": [
+    {
+      "node_id": "0000",
+      "title": "Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York",
+      "start_page": 1,
+      "end_page": 1,
+      "summary": "Cover identifying OIG report 23-085 and its June 2023 publication date.",
+      "nodes": []
+    },
+    {
+      "node_id": "0001",
+      "title": "EXECUTIVE SUMMARY",
+      "start_page": 2,
+      "end_page": 5,
+      "summary": "Covers the DOJ OIG review of Bureau of Prisons custody of Jeffrey Epstein at MCC New York. Topics include chronic staffing, suicide-risk and camera failures; his July 2019 arrest, SHU placement, and bail denial; the July 23 apparent hanging attempt, suicide watch, and cellmate reassignment; August 8-10 lapses (no cellmate, unmonitored call, skipped counts, falsified records, new will); his August 10 death; camera malfunction limiting video; findings, recommendations, and report structure.",
+      "nodes": [
+        {
+          "node_id": "0002",
+          "title": "Investigation and Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York",
+          "start_page": 2,
+          "end_page": 5,
+          "summary": "Covers the DOJ OIG review of Bureau of Prisons custody of Jeffrey Epstein at MCC New York: chronic staffing, suicide-risk and camera failures; his July 2019 arrest, SHU placement, and bail denial; the July 23 apparent hanging attempt, suicide watch, and cellmate reassignment; August 8-10 lapses (no cellmate, unmonitored call, skipped counts and rounds, falsified records, new will); his August 10 death; camera malfunction limiting video; findings, recommendations, and report structure.",
+          "nodes": [
+            {
+              "node_id": "0003",
+              "title": "Introduction and Background",
+              "start_page": 2,
+              "end_page": 2,
+              "summary": "Introduces the DOJ OIG investigation into the Bureau of Prisons' custody, care, and supervision of Jeffrey Epstein at MCC New York. Covers recurring BOP operational problems (staffing shortages, suicide risk management, failed cameras, policy disregard), Epstein's August 10, 2019 death by suicide, the joint FBI investigation finding no criminality, and his July 6 arrest.",
+              "nodes": []
+            },
+            {
+              "node_id": "0004",
+              "title": "Incident Involving Epstein on July 23",
+              "start_page": 2,
+              "end_page": 3,
+              "summary": "Describes Epstein's July 23 incident at MCC New York: he was found with a cloth around his neck after an apparent hanging attempt, reported by his cellmate. Medical staff noted neck and knee marks and placed him on suicide watch, removed July 24, then psychological observation until July 30.",
+              "nodes": []
+            },
+            {
+              "node_id": "0005",
+              "title": "Events of August 8–10, 2019, and Epstein’s Death",
+              "start_page": 3,
+              "end_page": 4,
+              "summary": "Covers the August 8–10, 2019 events at MCC New York before Jeffrey Epstein's death: a cellmate transfer with no replacement, Epstein signing a new will, an unmonitored phone call in violation of BOP policy, and the unsealing of about 2,000 pages of Maxwell civil case documents. Also describes OIG findings of missed rounds, counts and cell searches, and falsified records.",
+              "nodes": []
+            },
+            {
+              "node_id": "0006",
+              "title": "The Limited Available Video Evidence",
+              "start_page": 4,
+              "end_page": 4,
+              "summary": "Describes limited video evidence for the Epstein SHU area at MCC New York. A Digital Video Recorder malfunction on July 29, 2019 left only one camera recording (about half of cameras recorded), discovered August 8 and unrepaired until after Epstein's death; the prison has a history of camera problems.",
+              "nodes": []
+            },
+            {
+              "node_id": "0007",
+              "title": "Results of the OIG’s Investigation and Review",
+              "start_page": 4,
+              "end_page": 5,
+              "summary": "The OIG found serious MCC New York failures in the Epstein case: staff did not assign a cellmate, an unmonitored phone call was allowed, required counts, rounds, cell searches, and camera checks were skipped, and records were falsified. Two employees faced charges later dismissed under deferred prosecution agreements.",
+              "nodes": []
+            },
+            {
+              "node_id": "0008",
+              "title": "Conclusion and Recommendations",
+              "start_page": 5,
+              "end_page": 5,
+              "summary": "Conclusion of an OIG report on BOP failures at MCC New York surrounding Jeffrey Epstein's August 2019 death. Finds recurring negligence, misconduct, and job performance failures; urges DOJ/BOP leadership to address staffing, surveillance, and safety problems.",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "0083",
+      "title": "Table of Contents",
+      "start_page": 6,
+      "end_page": 7,
+      "summary": "Lists the report chapters, subsections, appendices, and their printed page numbers.",
+      "nodes": []
+    },
+    {
+      "node_id": "0009",
+      "title": "Chapter 1:  Introduction",
+      "start_page": 8,
+      "end_page": 12,
+      "summary": "The text is the introduction to a DOJ Office of the Inspector General report on the Federal Bureau of Prisons' custody of Jeffrey Epstein at MCC New York, where he was found hanged in his cell on August 10, 2019, and was ruled a suicide. It details the death and resuscitation efforts, the SHU housing conditions, and the FBI finding of no criminality.",
+      "nodes": []
+    },
+    {
+      "node_id": "0010",
+      "title": "Chapter 2:  Background",
+      "start_page": 12,
+      "end_page": 21,
+      "summary": "Chapter 2 background on Jeffrey Epstein's July 2019 sex trafficking indictment, arrest at MCC New York, and placement in the SHU. Covers the August 2019 death-watch failures by CO Tova Noel and Michael Thomas (falsified count slips and round sheets), their November 2019 indictment, May 2021 deferred prosecution agreements, December 2021 dismissal, declined charges for other staff, and OIG findings of widespread misconduct.",
+      "nodes": [
+        {
+          "node_id": "0011",
+          "title": "I. Significant Entities and Individuals",
+          "start_page": 12,
+          "end_page": 13,
+          "summary": "Background on Jeffrey Epstein's July 2019 federal sex trafficking indictment (2002-2005 abuse of minors at Florida and New York residences), his arrest and detention at MCC New York, and his placement in the Special Housing Unit. It covers the August 2019 death-watch failures by CO Tova Noel and Material Handler Michael Thomas, who falsified count slips and round sheets, their November 2019 indictment, May 2021 deferred prosecution agreements, December 2021 dismissal, declined charges for other staff, and OIG findings of widespread staff misconduct.",
+          "nodes": []
+        },
+        {
+          "node_id": "0012",
+          "title": "II. Methodology",
+          "start_page": 13,
+          "end_page": 14,
+          "summary": "Methodology section of an OIG investigation into Jeffrey Epstein's death at MCC New York. The OIG interviewed 54 witnesses (MCC staff on duty August 9-10, 2019, supervisors, medical and camera-system staff, BOP staff and contractors, a relative of Epstein), plus 15 inmates, three of whom were in L Tier with direct sight of Epstein's cell.",
+          "nodes": []
+        },
+        {
+          "node_id": "0013",
+          "title": "III. Applicable Law, Regulations, and BOP Policies",
+          "start_page": 14,
+          "end_page": 21,
+          "summary": "Covers Part III applicable law and BOP policy: federal Standards of Ethical Conduct (honest official time, no misuse of property) and BOP Program Statement 3420.11 conduct rules; 18 U.S.C. § 1001(a)(3) false statements and duty to cooperate and answer truthfully in investigations; BOP special housing unit placement and conditions, MCC New York inmate accountability (counts, rounds, searches, records), pretrial screening, suicide prevention, telephone rules, and personal effects, medication, and linen policies.",
+          "nodes": [
+            {
+              "node_id": "0014",
+              "title": "A. Standards of Conduct",
+              "start_page": 14,
+              "end_page": 15,
+              "summary": "Summarizes Part III of a DOJ OIG-style report: the Standards of Ethical Conduct for federal employees (official time used honestly, no misuse of federal property) and BOP Program Statement 3420.11 conduct rules (respect for BOP/DOJ, stay alert on duty, authorized property use only, no personal computer use during work hours, obey superiors). Footnotes note an inmate-interview request by SDNY and a relative's unverified photo claim about Epstein's cell door.",
+              "nodes": []
+            },
+            {
+              "node_id": "0015",
+              "title": "B. False Statements and Lack of Candor",
+              "start_page": 15,
+              "end_page": 15,
+              "summary": "Explains that under 18 U.S.C. § 1001(a)(3), knowingly and willfully making or using a false writing with a materially false statement in a federal executive branch matter is a violation, requiring only general awareness that conduct is prohibited, not knowledge of the statute. Also states BOP employees must fully cooperate with investigations, provide all pertinent information, and truthfully answer questions.",
+              "nodes": []
+            },
+            {
+              "node_id": "0016",
+              "title": "C. Relevant BOP Policies Regarding the Operation of Correctional Facilities",
+              "start_page": 15,
+              "end_page": 21,
+              "summary": "Describes BOP Special Housing Units (SHUs): administrative detention vs. disciplinary segregation, protection-based placement, and conditions (about 23 hours in cell, limited exercise, showers, escorted visits, mental health evaluations, staff training). Covers MCC New York inmate accountability: official and recount procedures, rounds, change sheets, file and log records, and cell searches.",
+              "nodes": [
+                {
+                  "node_id": "0018",
+                  "title": "1. Special Housing Units",
+                  "start_page": 15,
+                  "end_page": 16,
+                  "summary": "Describes Special Housing Units (SHUs) in BOP facilities under 28 C.F.R. §§ 541.21-541.33 and Program Statement 5270.11. Covers administrative detention versus disciplinary segregation, protection-based placement (assault victims, informants, refusal to enter general population, safety concerns), and SHU conditions: about 23 hours daily in cell, 5 hours weekly exercise, at least 3 showers weekly, escorted visits, visitor logging and searches, food delivered through cell slots.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0019",
+                  "title": "a. Counts",
+                  "start_page": 16,
+                  "end_page": 17,
+                  "summary": "Describes BOP inmate accountability at MCC New York SHU: five daily official counts (stand-up counts at 10 p.m. and 10 a.m. weekends/holidays), two-officer count procedure with verbal relay to Control Center, recount and bed-book escalation for mismatches, count slips retained 30 days, and Lieutenant counts. Also covers 30-minute rounds for segregated inmates, daily change/transfer sheets, SHU files, BP-292 forms, TRUSCOPE logging, and periodic cell searches with documentation.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0020",
+                  "title": "b. 30-Minute Rounds",
+                  "start_page": 17,
+                  "end_page": 17,
+                  "summary": "Describes twice-hourly SHU observation requirements, documentation of inmate status and confinement, and cell-search requirements.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0021",
+                  "title": "a. Initial Screening",
+                  "start_page": 17,
+                  "end_page": 18,
+                  "summary": "Describes BOP policy for pretrial inmates (Program Statement 7331.04): an initial risk/needs screening within 48 hours of admission to identify security, medical, psychological, and other special needs. Screening is also required for pretrial inmates returning from court, since court events may change separation or security needs.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0022",
+                  "title": "b. Suicide Prevention",
+                  "start_page": 18,
+                  "end_page": 20,
+                  "summary": "Covers the BOP suicide prevention program under 28 C.F.R. 552.40-42 and PS 5324.08: new-inmate screening (within 24 hours, with comprehensive psych intake at high-turnover MCCs only for suspected cases), 72-hour screening for protective custody SHU inmates, and direct observation for at-risk inmates. Describes suicide watch (constant observation, special gear, dedicated rooms) versus the less restrictive psychological observation.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0023",
+                  "title": "a. Telephone Calls",
+                  "start_page": 20,
+                  "end_page": 20,
+                  "summary": "Describes BOP telephone call rules for inmates under 28 C.F.R. §§ 540.100-540.106: the Warden must set monitoring procedures to preserve security and protect the public. All calls must go through the Inmate Telephone System (Program Statement P5264.08).",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0024",
+                  "title": "b. Personal Effects, Medication, and Linens",
+                  "start_page": 20,
+                  "end_page": 21,
+                  "summary": "Describes BOP Special Housing Unit (SHU) rules for personal effects, medication, and linens. Federal regulation (28 C.F.R. § 541.31(h)(1)) lets administrative detention inmates keep reasonable personal property, which BOP policy (Program Statement 5270.11) may limit for security, fire safety, or housekeeping.",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "0025",
+      "title": "Chapter 3:  Timeline of Key Events",
+      "start_page": 21,
+      "end_page": 28,
+      "summary": "Chapter 3 presents a timeline of key events from BOP records and OIG interviews about Jeffrey Epstein's detention at MCC New York, July–August 2019. It covers his 2019 indictment, arrest, court hearings and detention ruling, and placement in the SHU.",
+      "nodes": []
+    },
+    {
+      "node_id": "0026",
+      "title": "Chapter 4:  Custody and Care of Epstein Prior to His Death",
+      "start_page": 28,
+      "end_page": 57,
+      "summary": "Covers Jeffrey Epstein's custody before his death at MCC New York. Topics include his July 2019 indictment, arrest, and pretrial detention, plus the SHU placement and its security layout.",
+      "nodes": [
+        {
+          "node_id": "0027",
+          "title": "I. Epstein’s Arrest and Detention on July 6",
+          "start_page": 28,
+          "end_page": 29,
+          "summary": "Describes Jeffrey Epstein's pre-death custody. On July 2, 2019, a SDNY grand jury indicted him on two counts (sex trafficking and conspiracy) for sexually exploiting dozens of minor girls at his New York and Florida homes from 2002-2005, including recruitment networks; forfeiture sought his NY residence.",
+          "nodes": []
+        },
+        {
+          "node_id": "0028",
+          "title": "II. MCC New York’s Special Housing Unit",
+          "start_page": 29,
+          "end_page": 35,
+          "summary": "Describes Epstein's July 7, 2019 move to MCC New York's Special Housing Unit (SHU) pending reclassification due to media notoriety. Explains SHU structure and security: 9 South on the ninth floor, multiple locked doors, six tiers, single-door cells, and key separation.",
+          "nodes": []
+        },
+        {
+          "node_id": "0029",
+          "title": "III. Epstein’s Initial Cell and Cellmate Assignment from July 7 to July 23",
+          "start_page": 35,
+          "end_page": 36,
+          "summary": "Describes Jeffrey Epstein's initial placement at MCC New York after his July 7, 2019 transfer to the SHU. He was assigned to cell Z05-124 on M Tier with Inmate 1, another high-profile inmate, chosen by the Warden as the least likely to harm Epstein.",
+          "nodes": []
+        },
+        {
+          "node_id": "0030",
+          "title": "IV. Events of July 23 and the Placement of Epstein on Suicide Watch and Psychological Observation from July 23 to July 30",
+          "start_page": 36,
+          "end_page": 39,
+          "summary": "Describes the July 23, 2019 incident at MCC New York in which Epstein was found with a cloth ligature around his neck in his SHU cell. It covers staff and inmate accounts (Senior Officer Specialists, the Morning Watch Operations Lieutenant, cellmate Inmate 1, and Inmate 2's FBI statement), medical findings, and Epstein's claims that his cellmate tried to kill him.",
+          "nodes": []
+        },
+        {
+          "node_id": "0031",
+          "title": "V. The Psychology Department’s Post-July 23 Determination that Epstein Needed to Have an Appropriate Cellmate",
+          "start_page": 39,
+          "end_page": 40,
+          "summary": "Describes the MCC New York Psychology Department's determination after July 23 that inmate Epstein needed an appropriate cellmate. A July 30, 2019 email to over 70 staff, including Warden, Associate Wardens, Captain, and SHU/SIS/watch lieutenants, announced he was coming off psych observation and needed a cellmate.",
+          "nodes": []
+        },
+        {
+          "node_id": "0032",
+          "title": "VI. Selection of Epstein’s Cellmate After Psychological Observation",
+          "start_page": 40,
+          "end_page": 40,
+          "summary": "The Captain compiled and vetted a list of possible cellmates for Epstein and gave it to the MCC New York Warden, who identified two candidates and tentatively chose Inmate 3, passing this to the BOP Director's Chief of Staff, then receiving approval to assign Inmate 3. No pre-vetted replacement existed if Inmate 3 left.",
+          "nodes": []
+        },
+        {
+          "node_id": "0033",
+          "title": "VII. Epstein’s Cell Assignment from July 30 to August 10",
+          "start_page": 40,
+          "end_page": 48,
+          "summary": "Describes Jeffrey Epstein's cell assignments at MCC New York's SHU from July 30 to August 10, 2019. A SENTRY database error misdated his return to the SHU and omitted his later cell change; the error had no effect on the OIG's findings.",
+          "nodes": []
+        },
+        {
+          "node_id": "0034",
+          "title": "VIII. Psychological Evaluations of Epstein from July 6 to August 9",
+          "start_page": 48,
+          "end_page": 57,
+          "summary": "Covers psychological evaluations of Jeffrey Epstein at MCC New York from July 6 to August 9, 2019. It details intake screenings, care code classifications (Code 1–4), and suicide risk assessments by the Chief Psychologist and staff psychologists, who found him stable and denying suicidality.",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "node_id": "0035",
+      "title": "Chapter 5:  The Events of August 8–10, 2019, and Epstein’s Death",
+      "start_page": 57,
+      "end_page": 88,
+      "summary": "Reconstructs the events of August 8–10, 2019, including the cellmate transfer, unmonitored telephone call, missed counts and rounds, and discovery of Epstein’s death. It includes accounts of the emergency response, recovered items, and autopsy results.",
+      "nodes": [
+        {
+          "node_id": "0036",
+          "title": "I. Epstein Signs a New Last Will and Testament on August 8",
+          "start_page": 57,
+          "end_page": 57,
+          "summary": "Chapter 5 covers events of August 8–10, 2019, before Jeffrey Epstein's death. Media reported Epstein signed a new will on August 8, 2019, notarized and witnessed by two attorneys; MCC New York visitor logs confirm the attorneys and notary visited.",
+          "nodes": []
+        },
+        {
+          "node_id": "0037",
+          "title": "II. Court Order on August 9 Releasing Epstein-Related Documents in Pending Civil Litigation",
+          "start_page": 57,
+          "end_page": 58,
+          "summary": "On August 9, 2019, the Second Circuit ordered unsealing of summary judgment filings from Virginia Giuffre's defamation suit against Ghislaine Maxwell. About 2,000 pages were released, containing derogatory information about Epstein, possibly related to his pending charges, and naming other high-profile figures.",
+          "nodes": []
+        },
+        {
+          "node_id": "0038",
+          "title": "III. Transfer of Epstein’s Cellmate on August 9 to Another Institution and Failure to Replace Him with Another Inmate",
+          "start_page": 58,
+          "end_page": 65,
+          "summary": "Section III covers the transfer of Epstein's cellmate (Inmate 3) to GEO's Queens Detention Facility on August 9, 2019, and the failure to replace him. Subsections detail the August 8 notice and USMS emails marked \"WAB\" (permanent removal), staff mistakenly thinking he went to court, MCC staff refusing Epstein attorneys' requests for no cellmate (including a forensic psychologist's view that he needed one and a prior suicide attempt), the August 9 removal and logs, and Day and Evening Watch staff failing to assign a new cellmate, with missed notifications and supervisor unawareness.",
+          "nodes": [
+            {
+              "node_id": "0039",
+              "title": "A. Notice on August 8 of the Impending Transfer of Epstein’s Cellmate on August 9",
+              "start_page": 58,
+              "end_page": 58,
+              "summary": "Describes the August 8, 2019 notice that Epstein's cellmate (Inmate 3), housed with him since July 30, would be transferred to GEO (Queens Detention Facility) on August 9. USMS emails sent at 10:33 a.m. and 3:36 p.m. requested scheduling, and the prisoner schedule marked the move \"WAB\" (with all belongings), meaning permanent removal.",
+              "nodes": []
+            },
+            {
+              "node_id": "0040",
+              "title": "B. MCC New York Staff Reject Epstein Attorney’s Request that Epstein be Housed Without a Cellmate",
+              "start_page": 58,
+              "end_page": 59,
+              "summary": "Describes MCC New York staff rejecting an Epstein attorney's request to house him without a cellmate. A forensic psychologist said Epstein, a sex offender in the SHU, needed a cellmate.",
+              "nodes": []
+            },
+            {
+              "node_id": "0041",
+              "title": "C. Removal on August 9 of Epstein’s Cellmate from MCC New York",
+              "start_page": 59,
+              "end_page": 60,
+              "summary": "Describes the August 9, 2019 pre-removal of Epstein's cellmate (Inmate 3) from MCC New York at about 8:38 a.m. in a routine pre-arranged transfer. Covers the Daily Log and Lieutenant's Log, the Supervisory Correctional Systems Specialist's account (USMS emails marked \"WAB\", \"pre-remove\" entries meaning no return), and the Correctional Systems Officer's account of SENTRY entries, daily call out lists, and their 24-hour electronic retention.",
+              "nodes": []
+            },
+            {
+              "node_id": "0042",
+              "title": "D. Failure to Assign Epstein a New Cellmate on August 9",
+              "start_page": 60,
+              "end_page": 65,
+              "summary": "Covers the August 9, 2019 events at MCC New York's SHU after Inmate 3 (Epstein's cellmate) was transferred out with no replacement. Day Watch staff roles, SHU Officer in Charge notifications and memo, and handoff to Evening Watch are described; most supervisors were unaware, USMS emails went to some recipients, and the Captain and Warden addressed responsibility.",
+              "nodes": [
+                {
+                  "node_id": "0043",
+                  "title": "1. Day Watch Staff Actions on August 9",
+                  "start_page": 60,
+                  "end_page": 62,
+                  "summary": "Covers the Day Watch staff response on August 9, 2019, when Inmate 3 was transferred out of MCC New York and Epstein needed a new cellmate. It details the shift lieutenants' and officers' roles, the SHU Officer in Charge's notifications and memo, and the handoff to the Evening Watch.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0044",
+                  "title": "2. Evening Watch Staff Actions on August 9",
+                  "start_page": 62,
+                  "end_page": 65,
+                  "summary": "An OIG report excerpt on the August 9 events at MCC New York's SHU (Special Housing Unit) involving Epstein, whose cellmate (Inmate 3) was transferred out without a replacement. It covers staff accounts from the Evening Watch SHU Officer in Charge, Senior Officer Specialist 5, CO 2, the Evening and Morning Watch Operations Lieutenants, the Acting Activities Lieutenant, the Captain, Material Handler Michael Thomas, and CO Noel.",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_id": "0045",
+          "title": "IV. Epstein is Allowed to Make an Unmonitored Telephone Call on August 9",
+          "start_page": 65,
+          "end_page": 68,
+          "summary": "The text describes how Jeffrey Epstein was allowed an unmonitored, unrecorded telephone call on August 9, 2019, at MCC New York, placed via the legal line rather than the Inmate Telephone System, without the required Acknowledgement of Inmate form or notifications. A Unit Manager, acting as Institutional Duty Officer, authorized it, left before the call ended, and gave no monitoring instructions.",
+          "nodes": []
+        },
+        {
+          "node_id": "0046",
+          "title": "V. Failure to Conduct SHU Inmate Counts and Staff Rounds on August 9–-10",
+          "start_page": 68,
+          "end_page": 77,
+          "summary": "Describes failures to perform required SHU inmate counts and rounds on August 9–10, 2019, and the records and testimony used to establish those failures.",
+          "nodes": [
+            {
+              "node_id": "0047",
+              "title": "A. SHU Inmate Counts",
+              "start_page": 68,
+              "end_page": 74,
+              "summary": "Examines required SHU counts, the counts that were missed, and discrepancies between staff records and other evidence.",
+              "nodes": [
+                {
+                  "node_id": "0048",
+                  "title": "V. Failure to Conduct SHU Inmate Counts and Staff Rounds on August 9–-10",
+                  "start_page": 68,
+                  "end_page": 72,
+                  "summary": "Describes count procedures and evidence that required counts were not performed on August 9–10, 2019.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0049",
+                  "title": "3. The 12 a.m., 3 a.m., and 5 a.m. SHU Counts on August 10",
+                  "start_page": 72,
+                  "end_page": 74,
+                  "summary": "The text covers a BOP OIG finding about the August 10, 2019 midnight, 3 a.m., and 5 a.m. SHU counts at MCC New York.",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "node_id": "0050",
+              "title": "B. Staff Rounds in the SHU",
+              "start_page": 74,
+              "end_page": 77,
+              "summary": "Examines requirements for twice-hourly SHU rounds and evidence of missed observations and falsified round sheets.",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0051",
+          "title": "VI. Epstein’s Death on August 10",
+          "start_page": 77,
+          "end_page": 88,
+          "summary": "Covers Jeffrey Epstein's August 10, 2019 death at MCC New York: morning discovery of him hanged by officers Thomas and Noel, CPR and emergency response, staff, inmate and EMS accounts, and the BOP incident report. Also covers items recovered from his cell, including torn sheets, linens tied like nooses, and a homemade rope, plus staffing and rounds complaints.",
+          "nodes": [
+            {
+              "node_id": "0052",
+              "title": "A. Discovery of Epstein Hanged in Cell and Emergency Response",
+              "start_page": 77,
+              "end_page": 83,
+              "summary": "Describes Jeffrey Epstein's August 10, 2019 death at MCC New York. Covers the morning discovery by officers Thomas and Noel, who found him hanged, their CPR and emergency response, and the staff, Lieutenant, and technician accounts.",
+              "nodes": []
+            },
+            {
+              "node_id": "0053",
+              "title": "B. Items Found in Epstein’s Cell on August 10 Following His Death",
+              "start_page": 83,
+              "end_page": 86,
+              "summary": "Describes items recovered from Epstein's cell after his death on August 10, 2019: the FBI took a torn sheet, papers, and an MP3 player, while the BOP collected medications, religious and other books, toiletries, batteries, headphones, glasses, mail, a paper bag, an orange homemade rope, AED pads, and a medical device. Photos show excess linens, some torn into strips and tied like nooses.",
+              "nodes": []
+            },
+            {
+              "node_id": "0054",
+              "title": "C. Autopsy Results",
+              "start_page": 86,
+              "end_page": 88,
+              "summary": "Summarizes the OIG's review of the Office of the Chief Medical Examiner's autopsy of Epstein, ruled a hanging suicide on August 11, 2019. The Medical Examiner cited neck fracture patterns consistent with hanging, petechial hemorrhages and plethora confined to the upper neck, an upward-peaking ligature furrow, and no defensive wounds, struggle signs, or strap muscle hemorrhages.",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "0055",
+      "title": "Chapter 6:  The Availability of Limited Recorded Video Evidence Due to the Security Camera Recording System Failure",
+      "start_page": 88,
+      "end_page": 101,
+      "summary": "Covers MCC New York's security camera failure before Jeffrey Epstein's death on August 10, 2019. About 150 cameras existed, roughly 11 covering the SHU.",
+      "nodes": [
+        {
+          "node_id": "0056",
+          "title": "I. Background on the Security Camera System at MCC New York",
+          "start_page": 88,
+          "end_page": 89,
+          "summary": "Describes MCC New York's security camera recording failure before Jeffrey Epstein's death on August 10, 2019. About 150 cameras were installed, with roughly 11 covering the SHU, including one at the L Tier end.",
+          "nodes": []
+        },
+        {
+          "node_id": "0057",
+          "title": "II. Discovery of Security Camera System Recording Issues in August 2019",
+          "start_page": 89,
+          "end_page": 101,
+          "summary": "Section II covers BOP's August 2019 discovery that MCC New York's DVR 2 failed July 29, leaving about half of roughly 150 cameras live but not recording; staff learned August 8. Nine prior camera/hard drive issues from 2017-2019 were documented, no one had daily recording checks, and BOP policy lacks such requirements.",
+          "nodes": [
+            {
+              "node_id": "0058",
+              "title": "A. Discovery on August 8 of the DVR 2 Failure that Occurred on July 29",
+              "start_page": 89,
+              "end_page": 90,
+              "summary": "Describes BOP discovery in August 2019 that MCC New York's DVR 2 system failed on July 29, 2019, leaving about half of roughly 150 cameras live but not recording. Staff learned of it August 8 when an SIS Lieutenant found no recorded video.",
+              "nodes": []
+            },
+            {
+              "node_id": "0059",
+              "title": "B. Response on August 8 and 9 to Discovery of the Recording Failure",
+              "start_page": 90,
+              "end_page": 91,
+              "summary": "Covers the MCC New York DVR recording failure response on August 8-9, 2019. Company 1 support found two failed hard drives in DVR 2 requiring replacement and rebuild.",
+              "nodes": []
+            },
+            {
+              "node_id": "0060",
+              "title": "C. SHU Camera Locations and Operational Status on August 10",
+              "start_page": 91,
+              "end_page": 99,
+              "summary": "On August 10, 2019, after Epstein's death, the Electronics Technician was asked to retrieve SHU video. Most SHU cameras recorded to DVR 2, which had a hard drive failure on July 29 (detected August 8), so live feeds existed but nothing was recorded, including the L Tier camera.",
+              "nodes": []
+            },
+            {
+              "node_id": "0061",
+              "title": "D. FBI Forensic Analysis of the DVR System",
+              "start_page": 99,
+              "end_page": 101,
+              "summary": "Describes FBI handling of the MCC New York DVR systems: seizure of DVR 2 hard drives on August 10, 2019, additional DVR 2 components on August 14, and the entire DVR 1 system on August 15. The FBI Digital Forensics Analysis Unit in Quantico received the system August 16, found DVR 2 failed to start and had three faulty drives, and an FBI analysis of controller logs showed catastrophic disk failures meaning no recordings after July 29, 2019.",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "0062",
+      "title": "Chapter 7:  Conclusions and Recommendations",
+      "start_page": 101,
+      "end_page": 122,
+      "summary": "Chapter 7 concludes a DOJ OIG report on BOP custody of Jeffrey Epstein at MCC New York, finding serious failures: falsified count and round records, policy violations, staff lacking candor, criminal charges resolved by deferred prosecution and declinations, and an unmonitored period consistent with suicide. It covers the failed cellmate assignment, missed rounds and counts, an unmonitored phone call, missed cell searches, excess linens, a nonfunctional camera system, staffing shortages, and prior OIG findings.",
+      "nodes": [
+        {
+          "node_id": "0063",
+          "title": "I. Conclusions",
+          "start_page": 101,
+          "end_page": 117,
+          "summary": "Conclusions of a DOJ OIG report on BOP custody of Jeffrey Epstein at MCC New York. Found serious failures: falsified count and round records, policy violations, staff lacking candor, criminal charges against two employees resolved by deferred prosecution, and declinations for others.",
+          "nodes": [
+            {
+              "node_id": "0064",
+              "title": "Chapter 7: Conclusions and Recommendations",
+              "start_page": 101,
+              "end_page": 105,
+              "summary": "Conclusions of a DOJ OIG report on the BOP's custody of Jeffrey Epstein at MCC New York. Found serious failures: falsified count and round records, policy violations, staff lacking candor, and criminal charges against two employees later resolved by deferred prosecution; prosecution declined for others.",
+              "nodes": []
+            },
+            {
+              "node_id": "0065",
+              "title": "A. MCC New York Staff Failed to Ensure that Epstein Had a Cellmate on August 9 as Instructed by the Psychology Department on July 30",
+              "start_page": 105,
+              "end_page": 109,
+              "summary": "Covers an OIG review of MCC New York's failure to assign Epstein a cellmate on August 9, 2019, despite a July 30 Psychology Department directive. Findings: SHU staff and CO Noel failed to notify supervisors or escalate; supervisors failed to supervise staff and read a USMS email; the Warden lacked a backup cellmate contingency plan; and several officers, including the Operations Lieutenant, lacked candor.",
+              "nodes": [
+                {
+                  "node_id": "0066",
+                  "title": "1. Failure to Make Required Notifications Regarding the Need to Assign Epstein a New Cellmate",
+                  "start_page": 105,
+                  "end_page": 107,
+                  "summary": "Describes the OIG finding that on August 9, 2019, MCC New York SHU staff failed to notify superiors that Epstein's cellmate (Inmate 3) had been transferred out, despite a July 30 Psychology Department directive requiring Epstein to have a cellmate. The Day Watch and Evening Watch SHU Officers in Charge and CO Noel knew of the requirement and the transfer, yet did not notify a supervisor, document the need, or act through the chain of command.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0067",
+                  "title": "2. Failure to Adequately Supervise SHU Staff",
+                  "start_page": 107,
+                  "end_page": 108,
+                  "summary": "Describes an OIG finding that MCC New York supervisors failed to adequately supervise SHU staff, contributing to Epstein being housed without a cellmate. Supervisors (Captain, several Lieutenants) received an August 8, 2019 USMS email that Inmate 3 would be transferred, but did not read the attachment or realize Epstein needed a new cellmate.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0068",
+                  "title": "3. Failure to Have a Contingency Plan for Assigning Epstein a Cellmate",
+                  "start_page": 108,
+                  "end_page": 108,
+                  "summary": "The text describes an OIG finding that the Warden showed poor judgment by lacking a backup cellmate plan for Epstein at MCC New York. SHU staff could not simply assign anyone, so after July 23, 2019, the Warden and BOP executive leadership chose Inmate 3 as cellmate, with no pre-vetted alternatives.",
+                  "nodes": []
+                },
+                {
+                  "node_id": "0069",
+                  "title": "4. Lack of Candor",
+                  "start_page": 108,
+                  "end_page": 109,
+                  "summary": "The text covers a BOP (Bureau of Prisons) lack-of-candor finding: policy requires full, truthful cooperation in official investigations. The OIG found the Day Watch and Evening Watch SHU Officers in Charge, Noel, and the Morning Watch Operations Lieutenant lacked candor, based on uncorroborated claims and contradicting evidence (including a July 30, 2019 Psychology Department email and a July 23, 2019 suicide-watch incident).",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "node_id": "0070",
+              "title": "B. MCC New York Staff Failed to Conduct Mandatory Rounds and Inmate Counts Resulting in Epstein Being Unobserved for Hours Before His Death",
+              "start_page": 109,
+              "end_page": 114,
+              "summary": "The OIG found MCC New York SHU staff failed to conduct required rounds and inmate counts on August 9-10, 2019, leaving Epstein unobserved for hours before his death. Staff (Evening Watch Officer in Charge, Material Handler, CO Noel, and CO Thomas) were found to have falsely attested to completing counts and rounds, violating federal law (18 U.S.C. § 1001) and BOP policy; Noel also lacked candor.",
+              "nodes": []
+            },
+            {
+              "node_id": "0071",
+              "title": "C. MCC New York Staff Allowed Epstein to Place an Unmonitored Telephone Call on August 9",
+              "start_page": 114,
+              "end_page": 115,
+              "summary": "An OIG report finding that on August 9, 2019, MCC New York staff let Epstein make an unrecorded, unmonitored call (6:58-7:19 p.m.) on a non-Inmate Telephone System line, with no record of the recipient or conversation. Policy requires monitoring, logging, and notifying Special Investigative Services.",
+              "nodes": []
+            },
+            {
+              "node_id": "0072",
+              "title": "D. MCC New York Staff Failed to Conduct and Document Cell Searches and Eliminate Safety Hazards in Epstein’s Cell on August 9 Leaving Epstein with Excessive Linens in His Cell",
+              "start_page": 115,
+              "end_page": 116,
+              "summary": "MCC New York staff failed to conduct and document required SHU cell searches on August 9, 2019, logging only one search all day despite policy requiring at least five per shift. Epstein's cell was left with excessive bed linens, a security risk for making nooses or escape aids, which the Captain confirmed.",
+              "nodes": []
+            },
+            {
+              "node_id": "0073",
+              "title": "E. MCC New York Staff Failed to Ensure that the Institution’s Security Camera System was Fully Functional Resulting in Limited Recorded Video Evidence",
+              "start_page": 116,
+              "end_page": 117,
+              "summary": "Describes MCC New York's failed security camera system: a July 29, 2019 DVR 2 disk failure left nearly all SHU cameras without recording until after Epstein's death on August 10, 2019, and staff learned of it only on August 8. A repair was delayed, and a replacement system bought in September 2018 was still not installed by August 2021.",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0074",
+          "title": "II. Recommendations",
+          "start_page": 117,
+          "end_page": 122,
+          "summary": "Recommendations on BOP suicide watch and Epstein case at MCC New York: (1) implement a cellmate assignment process after suicide watch or psychological observation, with exception criteria and clear approval and documentation; (2) ensure high-risk inmates keep recommended cellmates, with contingency reassignment plans; (3) evaluate and document approval for social and legal visits during watch, including attorney visits, improve inmate accountability and SHU round/count tracking, and define Lieutenant duties in policy; (4) address staffing shortages and evaluate cell search procedures for bed linens; (5) require security cameras to record and undergo regular functionality checks with corrective action.",
+          "nodes": [
+            {
+              "node_id": "0075",
+              "title": "1. The BOP should implement a process for assigning a cellmate following suicide watch or psychological observation, with criteria for exceptions based on the particular individual or security considerations.",
+              "start_page": 117,
+              "end_page": 118,
+              "summary": "Describes OIG Epstein investigation recommendation #1: BOP should require a cellmate for inmates coming off suicide watch or psychological observation, with exception criteria. Notes MCC New York supplement mandates cellmates but lacks duration or approval rules, while Suicide Prevention Policy 5324.08 has no such process; the Warden called it sound judgment.",
+              "nodes": []
+            },
+            {
+              "node_id": "0076",
+              "title": "2. The BOP should establish procedures to ensure inmates at high risk for suicide and for whom a cellmate is recommended will continue to have a cellmate until the recommendation is changed or rescinded, including establishing a contingency plan for cellmate re-assignment, with criteria for exceptions based on the particular individual or security considerations.",
+              "start_page": 118,
+              "end_page": 118,
+              "summary": "Recommends that the BOP ensure high-suicide-risk inmates keep their recommended cellmate until the recommendation changes, with a contingency plan for cellmate reassignment and exception criteria. OIG found MCC New York had no such plan when Epstein's cellmate was transferred, leaving him without a new cellmate.",
+              "nodes": []
+            },
+            {
+              "node_id": "0077",
+              "title": "3. The BOP should evaluate its current process for obtaining and documenting approval for social or legal visits while an inmate is on suicide watch or psychological observation, which allows for institution-specific variations in the process, and provide guidance on standard components that each institution should include in its process to mitigate security issues that can arise when an inmate is on suicide watch or psychological observation.",
+              "start_page": 118,
+              "end_page": 119,
+              "summary": "Covers OIG recommendations on BOP suicide watch and psychological observation: evaluate and document approval for social/legal visits (MCC New York policy requires Captain and Associate Warden approval, but Epstein's attorney visits of 6+ hours and 8-11 hours daily went unapproved and unobserved). Also recommends improving inmate accountability and whereabouts tracking (missed SHU rounds and counts, delayed documentation, unretained or modified logs) via policy, training, or other measures, and defining Lieutenant expectations during SHU rounds in policy.",
+              "nodes": []
+            },
+            {
+              "node_id": "0078",
+              "title": "4. The BOP should evaluate its methods of accounting for inmate whereabouts and wellbeing and make changes as may be appropriate to improve those methods through policy, training, or other measures.",
+              "start_page": 119,
+              "end_page": 119,
+              "summary": "Recommends better inmate accountability and clearer expectations for supervisory rounds, based on missed counts, delayed documentation, and gaps in supervision.",
+              "nodes": []
+            },
+            {
+              "node_id": "0079",
+              "title": "6. The BOP should continue to develop and implement plans to address staffing shortages at its prisons.",
+              "start_page": 120,
+              "end_page": 120,
+              "summary": "Recommends addressing staffing shortages and improving cell-search procedures, citing fatigue, diverted technical staff, and excess linens as safety concerns.",
+              "nodes": []
+            },
+            {
+              "node_id": "0080",
+              "title": "8. The BOP should enhance existing policies regarding institutional security camera systems to ensure they specifically state that such systems must have the capacity to record video and that BOP institutions must conduct regular security camera system functionality checks.",
+              "start_page": 121,
+              "end_page": 122,
+              "summary": "Describes an OIG finding on MCC New York: no one was assigned routine checks of the security camera system, so video from about half the cameras went unrecorded from July 29, 2019 for 11 days, undetected. No BOP policy requires camera systems to record or requires periodic functionality checks.",
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node_id": "0081",
+      "title": "Appendix A:  The BOP’s Response to the Draft Report",
+      "start_page": 122,
+      "end_page": 125,
+      "summary": "BOP Director Colette Peters' June 22, 2023 response to the OIG draft report on the custody, care, and supervision of Jeffrey Epstein at MCC New York. BOP concurs with all eight recommendations: a cellmate-assignment process after suicide watch, cellmate continuity for high-risk inmates, evaluating visit-approval procedures during watch, improving inmate whereabouts accounting, clarifying lieutenant rounds policy, addressing staffing shortages, revising cell search procedures, and requiring functioning security camera recording with regular checks.",
+      "nodes": []
+    },
+    {
+      "node_id": "0082",
+      "title": "Appendix B:  OIG Analysis of the BOP’s Response",
+      "start_page": 125,
+      "end_page": 128,
+      "summary": "OIG report appendix analyzing the BOP's response to eight recommendations after Epstein's death. Recs 1-2 cover cellmate assignment after suicide watch and continuous cellmate for high-risk inmates; BOP concurred, Rec 2 only partially responsive.",
+      "nodes": []
+    }
+  ]
+}
