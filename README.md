@@ -21,6 +21,7 @@ Nobody may use this community's content to train AI models or for AI research, c
 
 ## What's here
 
+- [Document indexes](indexes/README.md): reusable PageIndex outlines and leaf text for agents, with the [read-an-index skill](skills/read-an-index/SKILL.md).
 - [Timeline](artifacts/timeline/index.html): 18 documented milestones, 1953–2026; open an event for sources. Data: [events.json](artifacts/timeline/events.json).
 - [Places](artifacts/places/index.html): four approximate locations with source-linked entries. Data: [places.geojson](artifacts/places/places.geojson).
 - [Court records](artifacts/filings/README.md): nine verified orders and filing notices guiding the January 2024 civil-record unsealing.
